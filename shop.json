@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung",
+        "price": 170.0,
+        "created": "08.10.2022",
+        "updated": "09.10.2022",
+        "description": "RAM:16gb, Storage:1Tb",
+        "status": "on sale"
+    },
+    {
+        "id": 2,
+        "name": "IPhone",
+        "price": 230.0,
+        "created": "08.10.2022",
+        "updated": "09.10.2022",
+        "description": "RAM:8gb, Storage:256gb",
+        "status": "on sale"
+    },
+    {
+        "id": 3,
+        "name": "Xiaomi",
+        "price": 170.0,
+        "created": "08.10.2022",
+        "updated": "09.10.2022",
+        "description": "RAM:6gb, Storage:128gb",
+        "status": "on sale"
+    },
+    {
+        "id": 4,
+        "name": "Poco",
+        "price": 150.0,
+        "created": "08.10.2022",
+        "updated": "09.10.2022",
+        "description": "RAM:16gb, Storage:512gb",
+        "status": "saled"
+    },
+    {
+        "id": 5,
+        "name": "Honor",
+        "price": 130.0,
+        "created": "06.10.2022",
+        "update": "08.10.2022",
+        "description": "RAM:4gb, Storage:64gb",
+        "status": "on sale"
+    }
+]
